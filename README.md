@@ -9,7 +9,7 @@ Welcome to the MedConnect repository! This is a production-grade, full-stack tel
 You can access the live deployment of the application:
 
 * 🌐 [MedConnect Web Application (Vercel)](https://frontend-dun-delta-64.vercel.app)
-* ⚙️ [Backend REST API (Render)](https://medconnect-api.onrender.com)
+* ⚙️ [Backend REST API (Local Dev Server)](http://localhost:5001)
 
 ### 🔑 Pre-seeded Test Accounts
 
