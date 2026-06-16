@@ -1,10 +1,27 @@
-# MedConnect – Full-Stack Doctor Appointment Booking Platform
+# MedConnect — MERN Stack Doctor Appointment Booking Platform
 
-## 🔗 Live Demo Links
-* **Live Storefront (Frontend)**: [https://medconnect-health.vercel.app](https://medconnect-health.vercel.app)
-* **API Server (Backend)**: [https://medconnect-api.onrender.com](https://medconnect-api.onrender.com)
+Welcome to the MedConnect repository! This is a production-grade, full-stack telemedicine and doctor appointment booking platform built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-MedConnect is a production-grade healthcare/telemedicine application designed to manage appointments, patient records, clinical schedules, and administrative approvals. It is built using the MERN stack with Tailwind CSS, Socket.io, Chart.js, and Framer Motion.
+---
+
+## 🔗 Live Demo & Test Credentials
+
+You can access the live deployment of the application:
+
+* 🌐 [MedConnect Web Application (Vercel)](https://medconnect-health.vercel.app)
+* ⚙️ [Backend REST API (Render)](https://medconnect-api.onrender.com)
+
+### 🔑 Pre-seeded Test Accounts
+
+* **Administrator Account (Platform Analytics & Approvals)**:
+  * **Email**: `admin@medconnect.org`
+  * **Password**: `admin123`
+* **Doctor Account (Clinician Portal & Schedule Manager)**:
+  * **Email**: `doctor@medconnect.org`
+  * **Password**: `doctor123`
+* **Patient Account (Doctor Discovery & Appointments Booking)**:
+  * **Email**: `patient@medconnect.org`
+  * **Password**: `patient123`
 
 ---
 
