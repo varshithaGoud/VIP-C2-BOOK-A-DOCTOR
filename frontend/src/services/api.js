@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5001/api';
+const API_URL = 'https://vip-c2-book-a-doctor-4fp5.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_URL,

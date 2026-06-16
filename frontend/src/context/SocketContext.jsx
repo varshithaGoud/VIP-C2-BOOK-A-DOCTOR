@@ -24,7 +24,7 @@ export const SocketProvider = ({ children }) => {
 
     if (user && user._id) {
       // Connect socket
-      socketInstance = io('http://localhost:5001');
+      socketInstance = io('https://vip-c2-book-a-doctor-4fp5.onrender.com');
       
       socketInstance.on('connect', () => {
         console.log('Connected to real-time notification socket');
