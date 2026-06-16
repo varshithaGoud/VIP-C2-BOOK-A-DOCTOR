@@ -1,5 +1,9 @@
 # MedConnect – Full-Stack Doctor Appointment Booking Platform
 
+## 🔗 Live Demo Links
+* **Live Storefront (Frontend)**: [https://medconnect-health.vercel.app](https://medconnect-health.vercel.app)
+* **API Server (Backend)**: [https://medconnect-api.onrender.com](https://medconnect-api.onrender.com)
+
 MedConnect is a production-grade healthcare/telemedicine application designed to manage appointments, patient records, clinical schedules, and administrative approvals. It is built using the MERN stack with Tailwind CSS, Socket.io, Chart.js, and Framer Motion.
 
 ---
